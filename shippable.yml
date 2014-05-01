@@ -5,4 +5,3 @@ services:
   - mongodb
 after_success:
   - git push git@heroku.com:shipnow.git master
-//add bogus comment  
