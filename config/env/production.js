@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://localhost/shippable-mean',
+	db: 'mongodb://<shippable>:<Hermione23562!>@oceanic.mongohq.com:10083/app24708033',
 	facebook: {
 		clientID: 'APP_ID',
 		clientSecret: 'APP_SECRET',
