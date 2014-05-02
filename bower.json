@@ -1,7 +1,7 @@
 {
-	"name": "shippable-mean",
+	"name": "shippable-demo-deploy",
 	"version": "0.0.1",
-	"description": "Example application for setting up Mean.js on Shippable and Heroku",
+	"description": "Example application for deploying a Mean.js app using Shippable and Heroku",
 	"dependencies": {
 		"bootstrap": "~3",
 		"angular": "~1.2",
